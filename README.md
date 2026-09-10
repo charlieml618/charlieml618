@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Charlie (@charlieml618) 👋
 
-<!--
-**charlieml618/charlieml618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer at Tech Labs in Sydney. I spend most of my day building APIs, optimizing database queries, and keeping services fast and reliable.
 
-Here are some ideas to get you started:
+#### What I'm working on
+- 🔨 Scaling backend services with Go and FastAPI
+- 🧠 Digging into Postgres internals and query optimization
+- 📦 Refining local Docker dev environments and caching layers with Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech stack
+- **Languages:** Go, Python, SQL, Bash
+- **Frameworks:** FastAPI, Gin
+- **Data & Storage:** PostgreSQL, Redis
+- **Tools & Infra:** Docker, Git, Linux
+
+#### Contact
+- LinkedIn: [linkedin.com/in/charlieml618](https://linkedin.com)
+- Email: `charlieml618@proton.me`
+- Reach out here via issues/discussions on my repos.
